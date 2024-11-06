@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "firebase": "^11.0.1"
+  },
+  "devDependencies": {
+    "daisyui": "^4.12.14"
   }
 }
